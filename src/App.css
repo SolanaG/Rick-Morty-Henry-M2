@@ -1,0 +1,7 @@
+.App {
+   text-align: center;
+   height: 150vh;
+   background-image: url('https://codetheweb.blog/assets/img/posts/css-advanced-background-images/mountains.jpg');
+   background-size: cover; /* Add this line */
+
+}

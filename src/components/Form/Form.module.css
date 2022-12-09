@@ -1,0 +1,16 @@
+.divForm {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    background-color: antiquewhite;
+    width: 50%;
+    margin: 0 auto;
+    align-items: center;
+}
+
+.warning {
+    color: red;
+    font-size: small;
+    font-weight: 600;
+}

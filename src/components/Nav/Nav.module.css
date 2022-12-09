@@ -1,0 +1,30 @@
+.divNav{
+    display: flex;
+    justify-content: space-between;
+    background-color: black;
+    opacity: 0.7;
+    border-radius: 10px;
+    padding: 5px;
+    padding-left: 10px;
+}
+
+.links{
+    text-decoration: none;
+    color: white;
+    padding-right: 10px;
+    align-items: center;
+}
+
+.button{
+    border: none;
+    background-color: black;
+    
+    color: white;
+    font-size: 15px;
+    padding-left: 0px;
+    /* padding: 15px 0px 15px 15px; */
+}
+
+.linksDiv{
+    align-self: center;
+}

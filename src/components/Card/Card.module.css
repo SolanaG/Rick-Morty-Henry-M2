@@ -1,0 +1,29 @@
+.divCard{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    background-color: black;
+    opacity: 0.9;
+    color: crimson;
+    width: fit-content;
+    margin: 0 auto;
+    border-radius: 10px;
+    padding: 10px;
+}
+
+.titlesDiv{
+    display: flex;
+    flex-direction: row;
+}
+
+h3{
+    margin: 10px;
+}
+
+.button{
+    padding:10px 20px 10px 20px;
+    background-color:gray;
+    border-radius: 5px;
+    color:white;
+}
